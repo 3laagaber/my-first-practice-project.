@@ -16,6 +16,7 @@ body{
     display: grid;
     font-family: 'Big Shoulders Display', sans-serif;
     font-family: 'Lexend Deca', sans-serif;
+    background-color: hsla(0, 0%, 100%, 0.75);
 }
 .content{
     display: grid;
